@@ -1,6 +1,6 @@
-202cdef4039a576286770f93660c64d4 *DESCRIPTION
+15b9977c733ea69578c34445912b470e *DESCRIPTION
 90136571a42bd09c50b6065e749e1e68 *NAMESPACE
-d637a9f1a033528a0648eb95ec206d3e *NEWS.md
+38058bb156e0958e6c0fec17578804b1 *NEWS.md
 b56462ce80a2738a52fdd3d12f68fbe3 *R/RcppExports.R
 a3755b4d13c14a38d5598cffc7abc85c *R/aaa.R
 d64eaada25a0173401466421a1e1daf0 *R/internal.R
@@ -16,4 +16,4 @@ fd760ffc9296cdf5eaf349def76e3bf2 *man/iprCatmullRom.Rd
 52c9bc18ceebf560bae266a9db053a0f *man/iprPCHIP.Rd
 28b94a86d00b5f2b82f2011e3464585f *src/RcppExports.cpp
 f434fe0efd1d2d3d89e8d211eae1a03c *src/interpolators.cpp
-6da0c655af563a40687527054d647cab *src/interpolators_types.h
+81500e38939824eeb3e76f7cf996dbbf *src/interpolators_types.h
